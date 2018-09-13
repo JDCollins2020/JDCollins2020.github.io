@@ -1,3 +1,6 @@
-body {
-background-color:lightblue;
+#miniTabs {
+  margin: 0 ;
+  padding: 0 0 20px 10px;
+  border-bottom: 1px solid #696;
 }
+#minitabs li{}
