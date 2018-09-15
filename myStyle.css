@@ -25,3 +25,8 @@
 #miniTabs a:hover{
    color: #696;
 }
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: rgba(125,125,255,1.0);
+}
