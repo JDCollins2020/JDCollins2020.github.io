@@ -1,39 +1,40 @@
 #miniTabs {
   margin: 0 ;
-  padding: 0 0 20px 10px;
-  border-bottom: 1px solid #696;
+  padding: 0 0 10px 10px;
+  border-bottom: 1px solid rgba(125,125,255,1.0);
 }
 #miniTabs li{
-  margin: 0;
-  padding: 0;
-  display: inline;
+  margin: 0px;
+  padding: 20px;
+  display:inline;
   list-Style: none;
 }
 #miniTabs a {
-    float: left;
-    line-height: 14px;
+    float:left;
+    line-height: 12px;
     font-weight: bold;
     margin: 0 10px 4px 10px;
-    text-decoration: none;
-    color: #9c9;
+    text-decoration:none;
+    color: rgba(125,125,255,1.0);
 }
 #miniTabs a.active, #miniTabs a:hover {
-    border-bottom: 4px solid #696;
-    padding-bottom: 2px;
-    color: #363;
+    border-bottom: 4px solid rgba(255,125,125,1.0);
+    padding-bottom: 6px;
+    font-size: 32px;
+    color: rgba(255,125,255,1.0);
 }
 #miniTabs a:hover{
-   color: #696;
+   color: rgba(255,125,125,1.0);
 }
 h1 {
   font-family: Arial, sans-serif;
-  font-size: 24px;
+  font-size: 32px;
   color: rgba(125,125,255,1.0);  
-  padding: 4px;
-  background-color: rgba(125,255,125,1.0);
+  padding: 0px 0px 20px 12px;
+  background: url(border.gif) repeat-x bottom;;
 }
 h2 {
   font-family: Arial;
   font-size: 20px; 
-  color: rgba(255,0,125,1.0);
+  color: rgba(125,200,100,.90);
 }
