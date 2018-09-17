@@ -38,3 +38,7 @@ h2 {
   font-size: 20px; 
   color: rgba(125,200,100,.90);
 }
+th, td {
+  border-right: 1px solid #999;
+  border-bottom: 1px solid #999;
+}
