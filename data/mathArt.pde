@@ -1,3 +1,4 @@
+/* @pjs preload="myPlant_001.jpg "; */
 //GLOBALS
 HScrollbar hs1;              //user interactive
 HScrollbar hs2;
