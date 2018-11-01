@@ -62,14 +62,6 @@ void draw(){
   fill(255);
   text(ratio/(2*PI),20,80);
 }
-void keyPressed()
-{
-  if(keyCode==ENTER)
-  {
-    save("Mart_001"+".pdf");
-  }
-}
-
 /* from https://processing.org/examples/scrollbar.html
  * didn't see a point in reinventing the wheel
  */
