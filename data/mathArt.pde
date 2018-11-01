@@ -1,4 +1,4 @@
-/* @pjs preload="myPlant_001.jpg "; */
+/* @pjs preload="myPlant_002.jpg "; */
 //GLOBALS
 HScrollbar hs1;              //user interactive
 HScrollbar hs2;
@@ -20,7 +20,7 @@ void setup(){
   hs1 = new HScrollbar(0, height - 56, width, 16, 1);
   hs2 = new HScrollbar(0, height - 36, width, 16, 1);
   hs3 = new HScrollbar(0, height-16, width, 16, 1);
-  img = loadImage("myPlant_001.jpg");
+  img = loadImage("myPlant_002.jpg");
 }
 
 //run
