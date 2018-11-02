@@ -163,9 +163,9 @@ body{
 		background-color: #b3b3b3;
 }
 #message{
-    line-height:650px;
+    line-height:600px;
 		width: 575px;
-    height: 650px;
+    height: 600px;
 		border:5px solid black;
 		margin:0 auto;
     background-color: #8e68ff;
