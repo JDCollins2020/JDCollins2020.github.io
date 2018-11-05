@@ -37,7 +37,7 @@ void draw(){
    ratio = map(hs1.getPos(),0,width,.3333333,2.000 );
    rIncre = map(hs2.getPos(),0,width,1,100);
    ratio = ratio*(2*PI);
-   for(radius = 1; radius < 255; radius+=rIncre){
+   for(radius = 1; radius < 300; radius+=rIncre){
      x = radius * cos(theta);
      y = radius * sin(theta);
      stroke(255-radius,200,radius);
