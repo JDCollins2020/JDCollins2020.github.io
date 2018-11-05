@@ -40,7 +40,7 @@ void draw(){
    for(radius = 1; radius < 255; radius+=rIncre){
      x = radius * cos(theta);
      y = radius * sin(theta);
-     stroke(radius,255-radius,200);
+     stroke(255-radius,200,radius);
      strokeWeight(7);
      point(x,y);
      strokeWeight(1);
