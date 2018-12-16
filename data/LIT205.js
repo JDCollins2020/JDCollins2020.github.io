@@ -11,7 +11,7 @@ function word(x,y,fill,size,value){
 function setup() {
   createCanvas(640, 480);
   var ind = floor(random(result.length));
-  textSize(50);
+  textSize(12);
   text(result[ind], 100, 100, 80, 80);
 }
 
