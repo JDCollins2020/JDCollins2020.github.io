@@ -1,4 +1,7 @@
 var result;
+var wordCloud = {
+  arr: new Array();
+}
 function preload() {
   result = loadStrings('dante.txt');
 }
