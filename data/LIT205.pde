@@ -1,6 +1,7 @@
+/* @pjs preload="dante.txt "; */
+
 //Creates an animated word cloud
 //Jack Collins
-//On my honor, I did not give or receive any unauthorized aid
 
 //Variable Bank/Array Set Up
 //150 to prevent an entire docuement from being run. only need 50 words
