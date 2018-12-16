@@ -1,3 +1,5 @@
+/* @pjs preload="dante.txt"; */
+
 //Creates an animated word cloud
 //Jack Collins
 
