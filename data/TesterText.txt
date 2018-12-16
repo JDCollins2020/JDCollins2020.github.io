@@ -1,0 +1,13 @@
+Plants that are more resistant to abiotic stresses such as salinity can be achieved through 
+manipulation of their DNA and could be advantageous in agriculture. Previous studies show that 
+the gene, AsHAK5, derived from Creeping bentgrass Agrostis stolonifera, appears to regulate the Na+ and 
+K+ ion ratio in plants, contributing to salt tolerance. While the underlying mechanism is not entirely 
+clear, AsHAK5 is part of the KP/HAK/KT transporter family that codes for both K+ ion channels and transporters. 
+This particular gene supposedly codes for a K+ transporter that controls the uptake of K+ ions from the soil; 
+this theory will be tested through cloning of the gene and manipulation of its expression in Arabidopsis thaliana. 
+The full length cDNA of the gene AsHAK5 from Creeping bentgrass was subcloned into the binary vector PSBbarBUbi, 
+to create an expression vector for AsHAK5 overexpression. The expression vector will be transformed into 
+Agrobacterium for Arabidopsis infection by floral dip method to deliver the chimeric gene construct. 
+Transgenic plants will be tested for the expression of the inserted gene and its impact on plant response to salt stress. 
+Information obtained may help develop new strategy to genetically engineer crops for enhanced tolerance to 
+abiotic stresses.
