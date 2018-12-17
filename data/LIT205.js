@@ -20,7 +20,7 @@ function setup() {
 
       x[ndx] = int(random(1, width));
 
-      y[ndx] = int(random(20,height-20));
+      y[ndx] = int(random(40,height-40));
 
       length[ndx] = map(length[ndx],16,70,25,85);
 
