@@ -12,7 +12,7 @@ var hue;
 
 function setup() {
 
-  createCanvas(800, 800);
+  createCanvas(1000, 500);
 
   //intialize x position
 	var ndx;
