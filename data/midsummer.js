@@ -1,7 +1,7 @@
-var word = ["athens", "father", "hermia", "theseus", "lysander", "demetrius", "fairies", "thisbe", "moonshine", "hippolyta", "athenian", "another", "should", "helena", "follow", "things", "lovers", "therefore", "gentle", "tongue", "bottom", "quince", "through", "pyramus", "thisby", "nothing", "oberon", "titania", "cannot"]; 
+var word = ["night", "athens", "father", "hermia", "theseus", "queen", "lysander", "demetrius", "fairies", "fairy", "thisbe", "moonshine", "their", "hippolyta", "dream", "shall", "athenian", "another", "voice", "heart", "which", "death", "should", "leave", "other", "would", "grace", "sweet", "every", "these", "helena", "follow", "there", "could", "never", "things", "lovers", "therefore", "gentle", "place", "comes", "again", "tongue", "where", "bottom", "quince", "through", "pyramus", "thisby", "lover"];
 
 
-var length = [24, 14, 52, 20, 43, 46, 11, 16, 11, 11, 16, 12, 34, 33, 19, 13, 15, 12, 16, 13, 18, 13, 22, 40, 23, 11, 15, 15, 12];
+var length = [43, 24, 14, 52, 20, 16, 43, 46, 11, 33, 16, 11, 50, 11, 14, 68, 16, 12, 10, 19, 23, 14, 34, 14, 10, 35, 10, 44, 15, 25, 33, 19, 24, 11, 32, 13, 15, 12, 16, 11, 16, 13, 13, 14, 18, 13, 22, 40, 23, 10];
 
 
 var x = new Array();
